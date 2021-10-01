@@ -38,7 +38,7 @@ Carilah minimal 3 MPPL yang mewakili klasik maupun agile. Jelaskan secara singka
 
   model devops adalah model yang menekankan pada budaya organisasi. Yang artinya selain memperhatikan dalam tahapan pengembangan perangkat lunak juga mengedepankan kerjasama antar tim.
 
-### Model Agile 
+### 4. Model Agile
 
   ![agile](images/agile.png)
 
